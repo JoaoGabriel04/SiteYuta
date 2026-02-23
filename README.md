@@ -1,4 +1,4 @@
-```md
+
 # 🎮 Yuta — Website Oficial do Jogo
 
 Website desenvolvido com **Next.js** e **Tailwind CSS** para apresentação do jogo **Yuta**, contendo informações sobre modos de jogo, descrição e navegação interativa.
@@ -23,10 +23,6 @@ Website desenvolvido com **Next.js** e **Tailwind CSS** para apresentação do j
 - Interface inspirada em páginas modernas de jogos
 
 ---
-
-
-
-```
 
 
 
