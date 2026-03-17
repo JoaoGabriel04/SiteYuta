@@ -6,17 +6,23 @@
 
 @theme {
   /* identidade */
-  --color-primary: #A64614;/* botão principal */
-  --color-primary-hover: #8A3A0F;/* botão principal hover */
+  --color-primary: #a64614; /* botão principal */
+  --color-primary-hover: #8a3a0f; /* botão principal hover */
   --color-primary-foreground: #ffffff;
-  --color-secondary: #2F6B2F;/* natureza */
+  --color-secondary: #2f6b2f; /* natureza */
 
   /* background */
-  --color-surface: #F4E9D8;/* areia/claro */
+  --color-surface: #f4e9d8; /* areia/claro */
 
-  --color-header: #2F7FB0;/* apoio */
-  --color-accent: #74C365;/* verde claro */
-  --color-muted: #254D3F;/* verde escuro */
+  --color-header: #2f7fb0; /* apoio */
+  --color-accent: #74c365; /* verde claro */
+  --color-muted: #254d3f; /* verde escuro */
+
+  /* Fonts */
+  --font-inter: "Inter", sans-serif;
+  --font-jersey25: "Jersey 25", sans-serif;
+  --font-jersey20: "Jersey 20", sans-serif;
+  --font-jersey15: "Jersey 15", sans-serif;
 }
 
 @theme inline {
@@ -62,7 +68,7 @@
 
 :root {
   --radius: 0.625rem;
-  --background: #4FBCFF;
+  --background: #4fbcff;
   --foreground: oklch(0.145 0 0);
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.145 0 0);
